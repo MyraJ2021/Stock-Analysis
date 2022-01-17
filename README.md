@@ -9,7 +9,7 @@ The VBA script enables analysis of the datset to determine the total daily volum
 and rate or returns for green stocks for a given year.
 
 ## Results
-As depicted in the screenshots below, the stocks in the dataset performed differently
+As depicted in the screenshots located in Resources, the stocks in the dataset performed differently
 in 2017 compared to 2018, with 2017 providing more positive rates of returns than 2018.
 
 ## Summary

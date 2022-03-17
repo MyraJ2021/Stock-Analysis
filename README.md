@@ -32,7 +32,7 @@ The actual refactored portion of the code was miniscule, and included diong away
 
 ![tickerIndex](Resources/tickerIndex.png)
 
-![Refactored_for_loops](Resources/Refactored_for_loops.png)
+![Refactored for loops](Resources/Refactored%20for%20loops.png)
 
 ## Summary
 ### Pros and Cons of Refactoring

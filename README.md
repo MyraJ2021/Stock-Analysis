@@ -7,6 +7,7 @@ The original script developed allowed the client to analyze total daily volumes 
 ## Results
 ### 2017 and 2018 Stock Performance
 As depicted in the screenshots below, the stocks in the dataset performed differently in 2017 compared to 2018, with 2017 providing more positive rates of returns than 2018.
+
 ![VBA_Challenge_2017_Table](Resources/VBA_Challenge_2017_Table.png) vs 
 ![VBA_Challenge_2018_Table](Resources/VBA_Challenge_2018_Table.png)
 ### Execution Times for Refactored vs Original VBA Script

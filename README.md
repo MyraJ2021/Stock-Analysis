@@ -12,25 +12,18 @@ As depicted in the screenshots below, the stocks in the dataset performed differ
 ![VBA_Challenge_2018_Table](Resources/VBA_Challenge_2018_Table.png)
 ### Execution Times for Refactored vs Original VBA Script
 As you can see in the images below, the refactored script ran significantly faster than the original code.
-Run-time for 2017 with original code...
+Run-time for 2017 with original code vs refactored:
 
-![execution_time_original_2017](Resources/execution_time_original_2017.png)
+![execution_time_original_2017](Resources/execution_time_original_2017.png) vs ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 
-vs refactored...
+Run-time for 2018 with original code vs refactored:
 
-![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
+![execution_time_original_2018](Resources/execution_time_original_2018.png) vs ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
-Run-time for 2018 with original code...
-
-![execution_time_original_2018](Resources/execution_time_original_2018.png)
-
-vs refactored...
-
-![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
-
-The actual refactored portion of the code was miniscule, and included diong away with the nest for loop of the original code using a tickerIndex.
+The actual refactored portion of the code was miniscule, and included doing away with the nest for loop of the original code using a tickerIndex.
 
 ![tickerIndex](Resources/tickerIndex.png)
+
 
 ![Refactored for loops](Resources/Refactored%20for%20loops.png)
 
@@ -45,5 +38,5 @@ There are many advantages to refactoring code. A few include:
 One major disadvantage of refactoring is that it can be time consuming. Additionally, you may have to retest functionality of the code.
 
 ### Applicaton of Pros and Cons in This Project's Refactored VBA Script
-When refactoring the original VBA script, the final product did accomplish faster execution times as suspected based on the list above.
+When refactoring the original VBA script, the final product did accomplish faster execution times and reduced complexity (pros noted above).
 It also, however, was time consuming, which was a listed con.

@@ -7,18 +7,24 @@ The original script developed allowed the client to analyze total daily volumes 
 ## Results
 ### 2017 and 2018 Stock Performance
 As depicted in the screenshots below, the stocks in the dataset performed differently in 2017 compared to 2018, with 2017 providing more positive rates of returns than 2018.
-INSERT 2017 PIC HERE
-INSERT 2018 PIC HERE
+![VBA_Challenge_2017_Table](Resources/VBA_Challenge_2017_Table.png)
+![VBA_Challenge_2018_Table](Resources/VBA_Challenge_2018_Table.png)
 ### Execution Times for Refactored vs Original VBA Script
 As you can see in the images below, the refactored script ran significantly faster than the original code.
-INSERT 2017 ORIGNIAL
-INSERT 2017 REFACTORED
-INSERT 2018 ORIGNIALA
-INSERT 2018 REFACTORED
+Run-time for 2017 with original code...
+![execution_time_original_2017](Resources/execution_time_original_2017.png)
+vs refactored...
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
+
+Run-time for 2018 with original code...
+![execution_time_original_2018](Resources/execution_time_original_2018.png)
+
+vs refactored...
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
 The actual refactored portion of the code was miniscule, and included diong away with the nest for loop of the original code using a tickerIndex.
-PIC OF TICKERINDEX CODE
-PIC OF NONNESTED FOR LOOP
+![tickerIndex](Resources/tickerIndex.png)
+![Refactored for loops](Resources/Refactored_for_loops.png)
 
 ## Summary
 ### Pros and Cons of Refactoring
